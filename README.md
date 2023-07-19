@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am looking to work on Business Landing Pages<br>I am looking to develop my skills in Typescript and TailwindCSS<br>过来看看
+Hi, I am Mark, a front-end developer. I am looking to work on Landing Pages<br>I am looking to develop my skills in Typescript and TailwindCSS<br>过来看看
 
 
 ## 🌐 Socials:
