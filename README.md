@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mark, a front-end developer. love to work on Landing Pages<br>Always looking to develop my skills in Typescript and TailwindCSS. I love learning new technologies and I am really interested in interactivity and aninmation libraries.<br>过来看看
+Hi, I'm Mark, a front-end developer and graphic designer.<br>Always looking to develop my skills in Typescript and TailwindCSS. I love learning new technologies and I am really interested in interactivity and aninmation libraries.<br>
 
 
 ## 🌐 Socials:
