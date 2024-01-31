@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mark, a front-end developer and graphic designer.<br>Always looking to develop my skills in Typescript and TailwindCSS. I love learning new technologies and I am really interested in interactivity and aninmation libraries.<br>
+Hi, I'm Mark, I am a freelance developer and UI Designer.<br>Interested in projects working with Nextjs, Tailwind, and Figma.<br>
 
 
 ## 🌐 Socials:
